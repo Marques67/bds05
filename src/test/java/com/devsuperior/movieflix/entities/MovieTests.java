@@ -1,5 +1,7 @@
 package com.devsuperior.movieflix.entities;
 
+import com.devsuperior.movieflix.entitites.Genre;
+import com.devsuperior.movieflix.entitites.Movie;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
